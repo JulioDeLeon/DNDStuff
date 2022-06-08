@@ -53,6 +53,10 @@ My Second stipulation on magic item creation, is that you need a particular tool
 | everything else            | tinker's tools                                           |
 
 
+#### Hiring Assistance
+
+Using the rules in the PHB for services. You can hire a skilled worker to craft items that you would like for 2 GP per day. To add further to this, you can reduce the amount of time it takes to craft an item by the number of workers partaking in the project. For example, an item which takes 10 days to craft by 1 person will take 5 days by 2 people. 
+
 #### *Feat: Magic Item Master* 
 
 >prerequisite: level 12
